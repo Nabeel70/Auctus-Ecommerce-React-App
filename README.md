@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App]
 
+## Install dependencies of node:
+
+### `npm start`
+
+Run this command in cmd to install all require dependencies.
+
 ## Available Scripts
 
 In the project directory, you can run:
