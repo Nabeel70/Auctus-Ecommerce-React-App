@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,500;1,900&display=swap');
+
+.FAQSection{
+    width: 100vw;
+    height: auto;
+    padding: 18px 81px 13px 95px;
+    background: linear-gradient(to right, rgb(51, 51, 247), rgb(0, 0, 158));
+}
+.FAQHeading{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 154.84px;
+    line-height: 181.63px;
+    letter-spacing: 10%;
+    text-align: center;
+    color: #ffffff;
+}
+.FAQMainSection{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    background: rgba(0,0,0,0.35);
+    margin-top: 32px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}

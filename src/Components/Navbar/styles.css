@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    background: #000000;
+    width: 100vw;
+    height: 54.06px;
+    position: fixed;
+    top: 0;
+    margin-bottom: 54.06px;
+    z-index: 1000000;
+}
+.navbarComponent{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 17.26px;
+    line-height: 20.24px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding: 16px 30px;
+}
+.navbarComponent:hover{
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #000000;
+    transition: all 0.3s;
+}
+#navbarCart{
+    padding: 10px 30px !important;
+}
+.cartLogo{
+    padding: 0px 0px !important;
+}
+#navbarCart:hover{
+    cursor: pointer;
+    background-color: rgb(80, 80, 80);
+    color: black;
+    transition: all 0.3s;
+}
+#navbarCart:hover > .cartLogo{
+    filter: invert(1);
+    transition: all 0.3;
+}
+.topLogo{
+    margin-top: -37.62px;
+    margin-left: 74.05px;
+    position: fixed;
+    top: 70px;
+    z-index: 1100000;
+}
+.navbarLink{
+    text-decoration: none;
+    color: #ffffff;
+}
+.navbarLink:hover{
+    color: #000000;
+}
+.dropLink {
+    text-decoration: none;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 17.26px;
+    line-height: 20.24px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding: 16px 30px;
+}
+.dropLink:hover { 
+    margin-top: 65px;
+    padding-top: 90px;
+    color: #000000;
+    background-color: #FFFFFF;
+    /* transition: all 0.3s; */
+}
+.dropdownLink {
+    color: #000000;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.dropComponent{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 25.24px;
+    color: #000000;
+    text-transform: uppercase;
+    /* padding: 16px 30px; */
+}

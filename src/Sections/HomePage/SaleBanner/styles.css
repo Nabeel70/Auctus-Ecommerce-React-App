@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,500;0,600;0,700;1,400;1,900&display=swap');
+
+.saleBanner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: auto;
+    background: radial-gradient(rgb(17, 17, 255), rgb(0, 0, 66))
+}
+.saleBannerHeader{
+    background-color: #000000;
+    width: 100%;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 64.18px;
+    line-height: 75.28px;
+    letter-spacing: 5.5px;
+    color: #ffffff;
+    text-align: center;
+}
+.auctusIcon{
+    margin-bottom: -15px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.bannerMainSection{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bannerLeftSection{
+    width: 30%;
+    flex: 0.3;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px 0;
+    color: #ffffff;
+}
+.bannerMiddleSection{
+    width: 40%;
+    flex: 0.4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mcgImage{
+    transform: rotate(350deg);
+    width: 70%;
+    object-fit: contain;
+    height: auto;
+    margin-right: -20%;
+}
+.cypionateImage{
+    transform: rotate(350deg);
+    width: 70%;
+    object-fit: contain;
+    height: auto;
+    margin-left: -20%;
+    margin-right: -20%;
+}
+.testCypionateImage{
+    transform: rotate(350deg);
+    width: 70%;
+    object-fit: contain;
+    height: auto;
+    margin-left: -28%;
+}
+.bannerRightSection{
+    width: 30%;
+    flex: 0.28;
+    display: flex;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 60px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px 0;
+    color: #ffffff;
+    font-style: italic;
+    
+}
+.bannerBottom{
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(transparent, #000000, #000000,  transparent);
+    margin-top: -60px;
+    margin-bottom: -40px;
+    z-index: 1000;
+}

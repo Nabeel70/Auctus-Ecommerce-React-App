@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,500;0,600;0,700;1,400;1,900&display=swap');
+
+.footerSection{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    padding: 5%;
+}
+.footerHome, .footerProducts, .footerLabTest, .footerContact, .footerReview, .footerFAQ{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 18.44px;
+    line-height: 21.63px;
+    color: #FFFFFF;
+    margin: 15px 0;
+    width: 33%;
+    text-align: start;
+    cursor: pointer;
+}
+.footerHome:hover, .footerProducts:hover, .footerLabTest:hover, .footerContact:hover, .footerReview:hover, .footerFAQ:hover {
+    color: #a7a7a7;
+    transition: all 0.3s;
+}
+.footerLeftSection{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    flex: 0.3;
+    margin-right: 10%;
+}
+.footerMiddleSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 0.4;
+}
+.footerTelegramIconContainer, .emailIconContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+}
+.footerTelegramLogo, .footerEmailIcon{
+    width: 20px;
+    height: 20px;
+}
+.footerTelegramLink, .footerEmailLink{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 12.63px;
+    line-height: 14.82px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.footerTelegramLink:hover, .footerEmailLink:hover{
+    cursor: pointer;
+    color: #a7a7a7;
+    transition: all 0.3s;
+}
+.footerLogo{
+    width: 400px;
+    height: auto;
+    object-fit: contain;
+    margin-top: 15px;
+}
+.copyright{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.2793px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-top: 25px;
+}
+.footerRightSection{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    flex: 0.3;
+    margin-left: 10%;
+}
+.footerLink{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footerLink:hover{
+    color: #a7a7a7;
+    transition: all 0.3s;
+}

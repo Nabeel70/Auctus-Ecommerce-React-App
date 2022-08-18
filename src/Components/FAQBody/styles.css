@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,500;0,600;0,700;1,400;1,900&display=swap');
+
+.faqBody{
+    display: flex;
+    flex-direction: column;
+}
+.bodyHeader, .bodyBody{
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    color:#0C2C94;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 34.98px;
+    line-height: 41.03px;
+    letter-spacing: 10%;
+}
+.bodyBody{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    color:#0C2C94;
+    margin-bottom: 42px;
+    font-size: 34.98px;
+    line-height: 41.03px;
+    letter-spacing: 10%;
+}

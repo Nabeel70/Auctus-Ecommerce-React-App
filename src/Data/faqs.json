@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "header": "PRODUCTS & STOCK",
+    "body": [{
+      "header": "HOW DO I FIND THE PRODUCTS?",
+      "body": "Auctus Pharma Group has been around for such a long time not just because the products are good quality, but because we go above and beyond to make your experience fast & comfortable. With our new site, all you have to do is click “PRODUCTS” in the menu and select your category. Rather than overloading you with multiple pages, everything can be easily found on our homepage."
+    },
+    {
+      "header": "WHEN WILL THE PRODUCT I WANT BE RESTOCKED?",
+      "body": "Because all of our products require different lead times, we cannot give you an exact date. Most of our products are regularly & quickly restocked, within days or hours."
+    },
+    {
+      "header": "ARE THE PRODUCTS LAB TESTED?",
+      "body": "Yes, all products are lab tested every single year. Our latest tests can all be seen by clicking “LABS” in the top menu."
+    },
+    {
+      "header": "ARE THESE PRODUCTS SAFE?",
+      "body": "We have an impeccable reputation and we wouldn't jeopardize it for anything. The safety of our products are most important. All products listed for sale are made in pharmaceutical conditions. That being said, all not for consumption by children. However you should understand that any drug can be dangerous if taken incorrectly. We strongly recommend and ask you to read instructions and consult your doctor to determine the presence of any risky health conditions."
+    }
+  ]
+  },
+  {
+    "id": 2,
+    "header": "CONTACT INFORMATION",
+    "body": [{
+      "header": "HOW DO I CONTACT YOU?",
+      "body": "There is a variety of different ways to reach us. Contact us on telegram @AuctusPharma, create a support ticket by clicking “CONTACT” in the main menu, email us at support@auctuspharmagroup.com, or click on the chat box at the bottom of the browser screen. We answer extremely quick, our longest wait has never been over a few hours."
+    },
+    {
+      "header": "I HAVE AN ISSUE. WHAT SHOULD I DO?",
+      "body": "For quickest response times and so we understand how to support you best, please create a support ticket by clicking “CONTACT” in the main menu."
+    }
+  ]
+  },
+  {
+    "id": 3,
+    "header": "SHIPPING & LEGAL INFORMATION",
+    "body": [{
+      "header": "HOW DO YOU SHIP THE PACKAGES? (SAFETY)",
+      "body": "All packages are shipped very discreet. Products are repacked with extreme care and precaution, specifically to minimize shipment volume. Our organization name or anything else that would imply pharmaceutical contents of the package is never used in our shipments. The size of our packages are never larger than what would cause unnecessary suspicion. If the order is too large to fit one of these packages, the order will automatically be divided into two or more packages."
+    },
+    {
+      "header": "HOW LONG IS THE ENTIRE PROCESS? PAY AND SHIPPING? ",
+      "body": "Once payment is received, we process and dispatch your order within 3-5 biz days (but usually under 48 hours). Your order will be delivery within 3-7 biz days from the time order was paid."
+    },
+    {
+      "header": "ARE THESE PRODUCTS ILLEGAL?",
+      "body": "Anabolic Steroids are illegal in some countries and legal in some. You should know and understand the laws in your country and state with regarding of purchase prescription medication and agree to hold the owners and operators of this site harmless for your actions."
+    },
+    {
+      "header": "HOW DO I TRACK MY PACKAGE?",
+      "body": "After you received a tracking number you can go to https://www.17track.net/en and put in your tracking number, it will show a status of your delivery. Do not use a VPN when checking your tracking. Please keep in mind, tracking numbers are always poorly updated and can be seen almost on any regular international shipping tracking service. The tracking information usually updates when it arrives to the customs of destination country."
+    },
+    {
+      "header": "HOW MUCH DOES SHIPPING COST?",
+      "body": "No matter how big or how small the order is, shipping is a flat rate fee of $30."
+    },
+    {
+      "header": "SHOULD I USE MY REAL NAME FOR THE DELIVERY?",
+      "body": "Depending on your country, the goods may very well be considered illegal. For the sake of anything to do with drugs in the mail, it is highly recommended you put a fake name on your package. However, you will be unable to retrieve your package if it is lost when using a fake name. It is up to you to determine the risk of this."
+    },
+    {
+      "header": "MY ORDER HAS BEEN SEIZED. HELP ME!",
+      "body": "There is no need to worry. We are in this business for more than 10 years and worst case scenario we have heard for seizures of packages was that basic seizure notice. Including for orders containing more than 50 vials. Customs, according to their official reports, seize tens of thousands of packs every day containing forbidden supplements and drugs therefore an address flag is impossible since the volume is simply to big for them to analyze each case in depth. Our store offers the most permissive reship policy on the AAS market. If requested, do not pick up the package. For most countries we offer unlimited reship policy. If you have received a seizure letter or your package is stuck in customs for more than 15 days, please contact our customer line to investigate the case and initiate a reship."
+    },
+    {
+      "header": "DO YOU DO INTERNATIONAL ORDERS?",
+      "body": "We do. It is important to note that due to customs issues and COVID-19 restrictions (as well as supply chain issues) we may send one of our 100% tested partner companies in place of Auctus if you are in a lesser common country. USA is guaranteed Auctus products. There is no difference in quality, just branding, if you get another packaging internationally. We will alert you of this occurence ahead of time."
+    }
+  ]
+  },
+  {
+    "id": 4,
+    "header": "PAYMENT & BTC CRYPTO GUIDE",
+    "body": [{
+      "header": "HOW DO I PAY FOR MY ORDER?",
+      "body": "When placing your order you will be forwarded to your payment details page where you will be given all the instructions for your particular order. Please note that payment details are applicable only to a current order, other orders will have different payment details!"
+    },
+    {
+      "header": "WHAT TYPE OF PAYMENT METHODS DO YOU ALLOW?",
+      "body": "Crypto (BTC) preferred. Cash is the only other option. Cash will be shipped in the mail and we will confirm the order after payment is received. To do the cash method, contact us."
+    },
+    {
+      "header": "WHY CRYPTO? IS IT BETTER AND SAFER?",
+      "body": "Bitcoin is the most rapidly growing and successful currency in the world. Even 3 years ago most of the people knew nothing about it and today BTC is one of the most popular words. Not a surprise; BTC transactions are instant, anonymous, cheap and represent the most convenient payment method, which does not belong to any banks and thus it is outside the control of governments. Give BTC a chance and we assure you that you wont regret it."
+    },
+    {
+      "header": "WHAT IS A BITCOIN WALLET?",
+      "body": "Bitcoin wallets provide a similar user's experience. There is a SEND button to make payments and a RECEIVE one to get them. You'll need a payment address and an amount to be transferred. An exchange is a good place to get some coins. The fees are ridiculous low and Bitcoin has a higher anonymity level than other online payment methods. It's somewhere near to cash payments. You should always consider to check the Bitcoin official rates, though Exchanges usually have their own rate."
+    },
+    {
+      "header": "HOW DO I OBTAIN BITCOIN TO SEND TO YOU?",
+      "body": "You can buy Bitcoins in the following sites: Coinbase: https://www.coinbase.com/ Cash APP: https://www.youtube.com/watch?v=FoeSOe31lcI Abra: https://www.abra.com/cryptocurrency/buy-bitcoin-with-abra/ Paxful: https://paxful.com/buy/bitcoin/ Localbitcoins: https://localbitcoins.com/country/ ATM: https://coinatmradar.com/country/226/bitcoin-atm-united-states/ Coinstar: https://www.coinstar.com/bitcoin CREDIT CARD: htpp://paybis.com"
+    }
+  ]
+  },
+  {
+    "id": 5,
+    "header": "WHOLESALER INFORMATION",
+    "body": [{
+      "header": "WHAT IS YOUR PRICING FOR WHOLESALE?",
+      "body": "Pricing for wholesalers depends on quantity. We cannot give an exact quote as it is situational. Please contact us via email, support@auctuspharmagroup.com, by creating a support ticket directly on our site, or reaching out to us via telegram @AuctusPharma."
+    }]
+  },
+  {
+    "id": 6,
+    "header": "HOW DO I KNOW YOU'RE LEGIT?",
+    "body": [{
+      "header": "WHAT IS YOUR PRICING FOR WHOLESALE?",
+      "body": "We have over 10+ years of reviews and vouches. To view some of our vouches, please scroll down or click “REVIEWS” in the menu. Also - we will send you pictures of your order via email before it is shipped to you. "
+    }]
+  }
+]

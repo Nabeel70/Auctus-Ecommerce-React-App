@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,500;0,600;0,700;1,400;1,900&display=swap');
+
+.labsImageContainer{
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+    padding: 1%;
+    
+    
+}
+.labtestImageLink{
+    width: 100%;
+    height: 23%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.labtestImage{
+    width: 100%;
+    height: 23%;
+    object-fit: fill;
+}
+.testUpperLayer{
+    width: 100%;
+    height: 23%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -141%;
+    z-index: 100;
+    border: 2px solid #ffffff;
+}
+.testDrugName{
+    width: 100%;
+    height: 100%;
+    font-size: 20.51px;
+    line-height: 24.05px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    padding-top: 50%;
+    padding-bottom: 36%;
+    background-color: rgba(0, 0, 0, 0.35);
+    text-decoration: none;
+    outline: none;
+}
+.SearchIconContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 9px;
+}
